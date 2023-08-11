@@ -2,7 +2,7 @@
 
 ## About
 
-A selection of Python programs to convert Excel Workbooks to different forms of images.
+A selection of Python programs to convert Excel Worksheets to different types of image files.
 
 ## Implementation
 
